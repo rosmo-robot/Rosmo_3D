@@ -9,3 +9,9 @@
 *	Optionally adding  lego tracks on ~3mm threaded bar to convert to a tracked robot
 
 ![First sketch](https://github.com/rosmo-robot/Rosmo_3D/blob/main/rosmo.png)
+
+Track mode
+()
+
+Wheel mode
+()
