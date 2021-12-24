@@ -11,7 +11,7 @@
 ![First sketch](https://github.com/rosmo-robot/Rosmo_3D/blob/main/rosmo.png)
 
 Track mode
-()
+(https://github.com/rosmo-robot/Rosmo_3D/blob/main/track_mode.png)
 
 Wheel mode
 ()
