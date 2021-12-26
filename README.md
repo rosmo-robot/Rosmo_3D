@@ -29,3 +29,5 @@ Track mode
 *	2x [10mm M2 bolts for additonal wheels](https://www.aliexpress.com/item/1005003325451662.html)
 * 2X [F628ZZ bearings](https://www.aliexpress.com/item/1171316093.html)
 * ?X [10mm x 12mm tread](https://www.aliexpress.com/item/4000831116641.html)
+
+Disclosure: Some of the Aliexpress links are affiliate links to help pay for the costs of this project.
