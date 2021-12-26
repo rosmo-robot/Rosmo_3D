@@ -11,7 +11,7 @@ Wheel mode
 Track mode
 
 # BOM - Wheeled
-* [3D printed parts](https://github.com/rosmo-robot/Rosmo_3D/tree/main/v1_wheeled/3D_Print)
+* [3D print parts](https://github.com/rosmo-robot/Rosmo_3D/tree/main/v1_wheeled/3D_Print) or [order](https://craftcloud3d.com/offer/fe3619b0-f710-4639-9112-3a63e40b91a9?utm_campaign=shareable_cart)
 * 1X [Open Core board (in development)](https://oshwlab.com/Rosmo/m5-proto)
 * 1X [Olimex ESP32](https://www.olimex.com/Products/IoT/ESP32/ESP32-DevKit-LiPo/open-source-hardware)
 * 1X [Rosmo ESC (in development)](https://github.com/rosmo-robot/Rosmo_ESC)
