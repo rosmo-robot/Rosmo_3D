@@ -15,7 +15,7 @@ Track mode
 * 1X [Open Core board (in development)](https://oshwlab.com/Rosmo/m5-proto)
 * 1X [Olimex ESP32](https://www.olimex.com/Products/IoT/ESP32/ESP32-DevKit-LiPo/open-source-hardware)
 * 1X [Rosmo ESC (in development)](https://github.com/rosmo-robot/Rosmo_ESC)
-*	2x [2205 motors](https://s.click.aliexpress.com/e/_AbLMJe)
+*	2x [2208 motors](https://s.click.aliexpress.com/e/_AMbiNq)
 *	2x [AS5048 encoders with SPI socket](https://s.click.aliexpress.com/e/_A1HwrQ)
 *	2x [5mm M3 nuts & bolts for motors](https://www.aliexpress.com/item/32810872544.html)
 *	2x [10mm M2 bolts for axle](https://www.aliexpress.com/item/32810872544.html)
