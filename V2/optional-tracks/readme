@@ -1,3 +1,12 @@
 
-This version uses these tracks
-https://www.tamiya.com/japan/products/70237/index.html
+This version uses these [Tamiya tracks](https://www.tamiya.com/japan/products/70237/index.html)
+
+We need to adapt [sprocket.stl](https://github.com/rosmo-robot/Rosmo_3D/tree/main/V2) into two components front and back.
+
+1) Front-sprocket.stl
+Should have a bearing and pin like this: https://github.com/rosmo-robot/Rosmo_3D/issues/13
+
+2) Rear-sprocket.stl
+Should have holes for M2 bolts to attach to 2208 motor: https://ledge-team.com/image/cache/catalog/Ledge%20Team%20Media/Products/DYS%20Gimbal%20Motor%202208/201505071533135694-500x500.jpg
+
+Following this work we will additionally have to adapt the front part of body.stl
