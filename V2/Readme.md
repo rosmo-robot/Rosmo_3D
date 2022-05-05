@@ -1,5 +1,5 @@
 
-We're going to design a simple 3d Body to hold the [ESC](https://github.com/rosmo-robot/Rosmo_ESC#readme) & [ESP32 board](https://github.com/rosmo-robot/Open-Core-M5stack/tree/main/v2.1#readme) at a ~45 degree angle [inspired by this bot](https://twitter.com/elec_leak/status/1518824409615593473)
+We're going to design a simple 3d Body to hold the [ESC](https://github.com/rosmo-robot/Rosmo_ESC#readme) & [Open core ESP32 board](https://github.com/rosmo-robot/Open-Core-M5stack/tree/main/v2.1#readme) at a ~45 degree angle [inspired by this bot](https://twitter.com/elec_leak/status/1518824409615593473)
 
 Something like this
 
