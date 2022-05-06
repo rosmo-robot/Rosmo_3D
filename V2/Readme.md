@@ -14,3 +14,9 @@ It might be possible to adapt parts of [V1.1](https://github.com/rosmo-robot/Ros
 We'll 3Dprint our own wheels to be compatible with this track. 
 
 We may do variants based on other track systems such as [Tamiya 7032](https://www.rcjaz.co.uk/tamiya-70237-link-type-track-sprocket-set-p-18901.html) or fully [3D printed tracks](https://www.thingiverse.com/thing:15528) in the future. Designing for the fixed length of the Pololu kit gives us most options.
+
+Prior art 
+
+[LiTeRo](https://www.thingiverse.com/thing:2896668)
+
+[SumoBot](https://www.thingiverse.com/thing:1574361/files)
