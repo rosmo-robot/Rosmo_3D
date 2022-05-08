@@ -9,6 +9,10 @@ The design is short, We're going to design for [Pololu track set](https://shop.p
 
 ![](https://raw.githubusercontent.com/rosmo-robot/Rosmo_3D/main/V2/pololu.webp)
 
+These are the components that need to be held together in a 3Dprinted structure
+
+![Parts](https://github.com/rosmo-robot/Rosmo_3D/blob/main/V2/pololu-rough.jpeg)
+
 It might be possible to adapt parts of [V1.1](https://github.com/rosmo-robot/Rosmo_3D/tree/main/v1.1) particulary the motor/encoder parts.
 
 We'll 3Dprint our own wheels to be compatible with this track. 
