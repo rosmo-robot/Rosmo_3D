@@ -13,7 +13,7 @@ These are the components that need to be held together in a 3Dprinted structure
 
 ![Parts](https://github.com/rosmo-robot/Rosmo_3D/blob/main/V2/pololu-rough.jpeg)
 
-It might be possible to adapt parts of [V1.1](https://github.com/rosmo-robot/Rosmo_3D/tree/main/v1.1) particulary the motor/encoder parts.
+It might be possible to adapt parts of [V1.1](https://github.com/rosmo-robot/Rosmo_3D/tree/main/v1.1) particularly the motor/encoder parts.
 
 We'll 3Dprint our own wheels to be compatible with this track. 
 
