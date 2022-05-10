@@ -7,7 +7,11 @@ Note that as we only need 3x battery, we can reduce the width by one battery to 
 
 ![](https://github.com/rosmo-robot/Rosmo_3D/blob/main/V2/images/narrow.jpeg)
 
-I think what we need are 2x 'L' shaped motor/ encoder holders which can screw to the (narrower) chassis
+This also corresponds to our ~5cm PCB dimension
+
+![](https://github.com/rosmo-robot/Rosmo_3D/blob/main/V2/images/3battboard.jpeg)
+
+Once the body is narrowed I think what we need are 2x 'L' shaped motor/ encoder holders which can screw to the (narrower) chassis
 
 ![](https://github.com/rosmo-robot/Rosmo_3D/blob/main/V2/images/twomotors%26card.jpeg)
 
