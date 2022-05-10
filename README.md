@@ -2,7 +2,10 @@
 
 :warning: In development. 
 
-Design is currently untested
+Version 2 [discussion here](https://github.com/rosmo-robot/Rosmo_3D/tree/main/V2)
+
+Below are details of V1
+
 
 ![Wheel mode - Open Source](https://github.com/rosmo-robot/Rosmo_3D/blob/main/wheel_mode.png)
 Wheel mode
