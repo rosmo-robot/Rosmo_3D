@@ -15,6 +15,8 @@ These are the components that need to be held together in a 3Dprinted structure
 
 It might be possible to adapt parts of [V1.1](https://github.com/rosmo-robot/Rosmo_3D/tree/main/v1.1) particularly the motor/encoder parts.
 
+Discussion on [FreeCAD forum](https://forum.freecad.org/viewtopic.php?p=594216&sid=2a7ae776db8a154a61fe9510c4f52c36#p594216)
+
 We'll 3Dprint our own wheels to be compatible with this track. 
 
 We may do variants based on other track systems such as [Tamiya 7032](https://www.rcjaz.co.uk/tamiya-70237-link-type-track-sprocket-set-p-18901.html) or fully [3D printed tracks](https://www.thingiverse.com/thing:15528) in the future. Designing for the fixed length of the Pololu kit gives us most options.
