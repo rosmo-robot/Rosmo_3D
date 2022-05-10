@@ -21,3 +21,5 @@ The part
 
 Can be pulled from the model found this repo: https://github.com/rosmo-robot/Rosmo_3D/tree/main/v1.1
 
+How to make these 'L' shaped brackets strong enough and attach securely is an open question at this point. Needs some thinking about..
+
