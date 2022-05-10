@@ -17,7 +17,7 @@ I don't think this can be a single piece, as note that the motor and encoder are
 
 The part 
 
-https://raw.githubusercontent.com/rosmo-robot/Rosmo_3D/main/V2/images/encoder.png
+![](https://raw.githubusercontent.com/rosmo-robot/Rosmo_3D/main/V2/images/encoder.png)
 
 Can be pulled from the model found this repo: https://github.com/rosmo-robot/Rosmo_3D/tree/main/v1.1
 
