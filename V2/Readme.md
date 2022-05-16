@@ -1,5 +1,9 @@
 
-We're going to design a simple 3d Body to hold the [ESC](https://github.com/rosmo-robot/Rosmo_ESC#readme) & [Open core ESP32 board](https://github.com/rosmo-robot/Open-Core-M5stack/tree/main/v2.1#readme) at a ~45 degree angle [inspired by this bot](https://twitter.com/elec_leak/status/1518824409615593473)
+Design work is underway in this thread:[FreeCAD forum](https://forum.freecad.org/viewtopic.php?p=594216&sid=2a7ae776db8a154a61fe9510c4f52c36#p594216)
+
+
+Initial concept
+[ESC](https://github.com/rosmo-robot/Rosmo_ESC#readme) & [Open core ESP32 board](https://github.com/rosmo-robot/Open-Core-M5stack/tree/main/v2.1#readme) at a ~45 degree angle [inspired by this bot](https://twitter.com/elec_leak/status/1518824409615593473)
 
 Something like this
 
@@ -15,7 +19,6 @@ These are the components that need to be held together in a 3Dprinted structure
 
 It might be possible to adapt parts of [V1.1](https://github.com/rosmo-robot/Rosmo_3D/tree/main/v1.1) particularly the motor/encoder parts.
 
-Discussion on [FreeCAD forum](https://forum.freecad.org/viewtopic.php?p=594216&sid=2a7ae776db8a154a61fe9510c4f52c36#p594216)
 
 We'll 3Dprint our own wheels to be compatible with this track. 
 
