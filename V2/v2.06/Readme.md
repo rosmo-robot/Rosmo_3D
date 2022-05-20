@@ -14,6 +14,6 @@ You will need to print
 * 2x pololu-rear-3.4mm.stl
 * 2x v206-encoder.stl
 
-Plus you will need the [Pololu 22T kit](https://shop.pimoroni.com/products/pololu-track-set-1?variant=933150982154), or alternately print [2x front wheels](https://www.thingiverse.com/thing:885742)
+Plus you will need the [Pololu 22T kit](https://shop.pimoroni.com/products/pololu-track-set-1?variant=933150982154), or alternately print [2x front wheels](https://www.thingiverse.com/thing:885742) & [track](https://www.thingiverse.com/thing:1936113)
 
 Or if you don't want Pololu tracks, check out the [Tamiya track parts](https://github.com/rosmo-robot/Rosmo_3D/tree/main/V2/optional-tracks)
