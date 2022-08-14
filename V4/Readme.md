@@ -5,7 +5,7 @@ Higher voltage battery https://www.aliexpress.com/item/33003200541.html
 
 5v step down module https://www.aliexpress.com/item/1005004235659894.html
 
-You will need to print
+You will need to download Freecad and convert these to .stl
 
 * 1x camcnewParedDownH.FCStd
 * 2x Magnet_Holder.stl https://github.com/rosmo-robot/Rosmo_3D/blob/a09dbaf5618fc7efe2f3068fb2b35d144179f3ac/V2/2.10/Magnet_Holder.stl
