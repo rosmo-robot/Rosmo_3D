@@ -6,6 +6,7 @@ This is untested WIP at the moment
 * 2x [servo.stl](https://github.com/rosmo-robot/Rosmo_3D/blob/main/V4/servo/servo.stl)
 * 2x [Mg90s servo](https://www.aliexpress.com/item/1005003267711275.html)
 * 2x [pololu wheels](https://github.com/rosmo-robot/Rosmo_3D/blob/main/V4/pololu-rear-12mm_v4.FCStd)
+* 1x [CamcnewPareddownH.stl](https://github.com/rosmo-robot/Rosmo_3D/blob/main/V4/servo/camcnewParedDownH-Body001Pocket036.stl)
 * 1x [RPI.stl](https://github.com/rosmo-robot/Rosmo_3D/blob/main/V4/servo/RPI.stl) mount plate
 * 1x [Huzzah 32 feather](
 * 1x [Feather:bit](https://github.com/rosmo-robot/Feather-Bit/)
