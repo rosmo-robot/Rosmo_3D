@@ -19,10 +19,12 @@ Plus you will need the [Pololu 22T kit](https://shop.pimoroni.com/products/polol
 
 Or if you don't want Pololu tracks, check out the [Tamiya track parts](https://github.com/rosmo-robot/Rosmo_3D/tree/main/V2/optional-tracks)
 
+There is also a [Brushless motor version](https://github.com/rosmo-robot/Rosmo_3D/blob/main/V4/BLDC/Readme.md)
+
 ## Optional extras
 
  * [2.8" screen](https://www.aliexpress.com/item/1005003936535877.html)
- * 
+ 
 
 ### Servo software
 
