@@ -1,5 +1,5 @@
 
-This is untested WIP at the moment
+This is an abanodoned idea for now. It is not buildable (Servo.stl needs work)
 
 ### Servo BOM
 
