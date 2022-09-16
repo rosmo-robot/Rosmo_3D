@@ -1,7 +1,7 @@
 
 ### BLDC BOM
 
-![https://raw.githubusercontent.com/rosmo-robot/rosmo-robot.github.io/master/assets/img/chonky.jpeg]()
+![Battery](https://raw.githubusercontent.com/rosmo-robot/rosmo-robot.github.io/master/assets/img/chonky.jpeg)
 
 * 1x [BLDC driver board](https://github.com/Twisted-Fields/rp2040-motor-controller) Get xt60 plug on the power, 4mm female banana on the motor cables.
 * 1x [1300mah 4s battery](https://www.aliexpress.com/item/33003200541.html) 
