@@ -1,0 +1,38 @@
+title: Rosmo chassis
+description: 3D printed parts to mount a Battery, driver board and BLDC motors with encoders
+intended-use: |-
+  R&D 
+  To control two brushless motors in a mobile platform using a microcontroller
+keywords:
+  - Robot
+  - Brushless
+project-link: https://github.com/rosmo-robot/Rosmo_3D/blob/main/V4/BLDC/Readme.md
+image: https://raw.githubusercontent.com/rosmo-robot/rosmo-robot.github.io/master/assets/img/chonky.jpeg
+made: true
+made-independently: false
+license:
+  hardware: CERN-OHL-P-2.0
+  software: MIT
+licensor:
+  name: Sam Rossiter
+  email: contact@rosmo.io
+okh-manifest-version: 1.0.0
+date-updated: 2022-10-18
+manifest-author:
+  name: Sam Rossiter
+  email: contact@rosmo.io
+manifest-language: en-GB
+contact:
+  name: Sam Rossiter
+  email: contact@rosmo.io
+  social:
+    - platform: Twitter
+      user-handle: rosmo_robot
+contributors:
+  - null
+version: "1.0"
+development-stage: prototype
+documentation-home: https://github.com/rosmo-robot/Rosmo_3D/blob/main/V4/BLDC/Readme.md
+archive-download: https://github.com/rosmo-robot/Rosmo_3D/archive/refs/heads/main.zip
+sub-parts:
+  - null
