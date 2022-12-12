@@ -4,9 +4,9 @@
 ![Battery](https://raw.githubusercontent.com/rosmo-robot/rosmo-robot.github.io/master/assets/img/chonky.jpeg)
 
 * 2x [pololu wheels](https://github.com/rosmo-robot/Rosmo_3D/blob/main/V4/pololu-rear-12mm_v4.FCStd) ([FCSTD](https://github.com/rosmo-robot/Rosmo_3D/blob/main/V4/pololu-rear-12mm_v4.FCStd))
-* 1x [CamcnewPareddownH.stl](https://github.com/rosmo-robot/Rosmo_3D/blob/main/V4/servo/camcnewParedDownH-Body001Pocket036.stl)[(FCSTD)](https://github.com/rosmo-robot/Rosmo_3D/blob/main/V4/camcnewParedDownH.FCStd) 
-* 2x [encoder.stl](https://github.com/rosmo-robot/Rosmo_3D/blob/main/V2/2.09/2.09-encoder.stl) [(FCSTD)](https://github.com/rosmo-robot/Rosmo_3D/blob/main/V2/2.10/Encoder-mount-v2.10.FCStd)
-* 1x [RPI.stl](https://github.com/rosmo-robot/Rosmo_3D/blob/main/V4/servo/RPI.stl) mount plate
+* 1x [CamcnewPareddownH.stl](https://github.com/rosmo-robot/Rosmo_3D/blob/main/V4/servo/camcnewParedDownH-Body001Pocket036.stl)  [(FCSTD)](https://github.com/rosmo-robot/Rosmo_3D/blob/main/V4/camcnewParedDownH.FCStd) 
+* 2x [encoder.stl](https://github.com/rosmo-robot/Rosmo_3D/blob/main/V2/2.09/2.09-encoder.stl) ([FCSTD](https://github.com/rosmo-robot/Rosmo_3D/blob/main/V2/2.10/Encoder-mount-v2.10.FCStd))
+* 1x [RPI.stl](https://github.com/rosmo-robot/Rosmo_3D/blob/main/V4/servo/RPI.stl) mount plate ([FCSTD](https://github.com/rosmo-robot/Rosmo_3D/blob/main/V4/BLDC/RosmoBattPlate.FCStd))
 * 1x [BLDC driver board](https://github.com/Twisted-Fields/rp2040-motor-controller) Get xt60 plug on the power, 4mm female banana on the motor cables.
 * 1x [1300mah 4s battery](https://www.aliexpress.com/item/33003200541.html) 
 * 2x [Magnet_Holder.stl](https://github.com/rosmo-robot/Rosmo_3D/blob/a09dbaf5618fc7efe2f3068fb2b35d144179f3ac/V2/2.10/Magnet_Holder.stl)
